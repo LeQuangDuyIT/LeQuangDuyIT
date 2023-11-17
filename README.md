@@ -6,31 +6,31 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+- Programming Language
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts" />
+  </a>
+</p>
+
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,bootstrap,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,bootstrap,tailwind,materialui" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
   </a>
 </p>
 

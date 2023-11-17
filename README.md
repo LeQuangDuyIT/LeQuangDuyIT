@@ -36,4 +36,4 @@
 
 <br/>
 
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Lê Quang Duy</a></p>
+<p align="right" > Created with 🧡 by <a href="https://duylq-dev.vercel.app">Lê Quang Duy</a></p>

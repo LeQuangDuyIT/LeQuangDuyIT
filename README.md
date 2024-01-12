@@ -16,7 +16,12 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,sass,bootstrap,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,nuxtjs,vite,redux,atom" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=styledcomponents,sass,bootstrap,tailwind,materialui" />
   </a>
 </p>
 

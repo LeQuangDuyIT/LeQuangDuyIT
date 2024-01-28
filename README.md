@@ -30,7 +30,10 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,codepen,replit,postman,figma, stackoverflow" />
   </a>
 </p>
 

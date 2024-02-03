@@ -1,7 +1,7 @@
 ![namecard](LeQuangDuyIT.png)
 
 <h1 align="center">Hi 👋, I'm Lê Quang Duy</h1>
-<h3 align="center">A passionate Programmer from Viet Nam</h3>
+<h3 align="center">A passionate Programmer from Vietnam</h3>
 <p align="center">I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 
 <h3 align="left">Languages and Tools:</h3>
